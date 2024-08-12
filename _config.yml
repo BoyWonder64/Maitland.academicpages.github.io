@@ -21,7 +21,7 @@ repository               : "https://github.com/BoyWonder64/Maitland.academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PFP.png"
+  avatar           : "PFP.jpg"
   name             : "Maitland Andrus"
   pronouns         :  "he/him"  
   bio              : "I just really want to write cool code"
