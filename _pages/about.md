@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Hello my friend!
+# Hello my friend
 Here this sites [repostitory](https://github.com/BoyWonder64/Maitland.academicpages.github.io)
 
 Hi! My name is Maitland Andrus, aspiring software developer, and mountain bike rider.
