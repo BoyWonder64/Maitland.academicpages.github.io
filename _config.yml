@@ -12,9 +12,9 @@ title                    : "Maitlands Portfolio / Feel free to look around"
 title_separator          : "-"
 name                     : &name "Maitland"
 description              : &description "This is the description"
-url                      : https://boywonder64.github.io/Maitland.academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://boywonder64.github.io/Maitland.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/BoyWonder64/Maitland.academicpages.github.io.git"
+repository               : "https://github.com/BoyWonder64/Maitland.github.io.git"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
