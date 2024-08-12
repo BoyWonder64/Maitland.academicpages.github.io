@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maitlands Portfolio / Feel free to look around"
+title                    : "Maitlands Portfolio"
 title_separator          : "-"
 name                     : &name "Maitland"
 description              : &description "This is the description"
