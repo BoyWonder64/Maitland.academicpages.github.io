@@ -10,3 +10,7 @@ collection: portfolio
 - User passwords are stored using SHA-256 hashing
 - Protected roles were implamented to allow Admins, Employees and Customers navigate to their appropiate sites
 - I faced many challengnes when built this game. The largest being figuring how the diagnoals. I resolved this by using a hard coded array then simply checked if each option was in the array
+</br>
+<img src='../images/4InARow.gif'>
+</br>
+<img src='../images/4InARow2.gif'>
