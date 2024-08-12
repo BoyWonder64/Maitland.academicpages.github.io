@@ -11,3 +11,5 @@ Gemfile.lock
 node_modules
 package-lock.json
 src/Hangman
+src/4-In-A-Row
+src/BankingFrontEnd
