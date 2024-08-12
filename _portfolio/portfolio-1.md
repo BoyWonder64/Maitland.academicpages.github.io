@@ -6,6 +6,7 @@ collection: portfolio
 
 [Hangman Project Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 
+
 - Written using the MERN Stack
 - Set Up a basic server using Express to handle API requests.
 - Established a basic frontend and backend that communicated to each other.
