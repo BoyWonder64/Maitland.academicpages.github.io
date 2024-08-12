@@ -1,6 +1,7 @@
 ---
 title: "4 In A Row"
-excerpt: "A simple 4 In A Row game to learn the basics of React<br/><img src='../images/4InARow.gif'> </br> <img src='../images/4InARow2.gif'>"
+excerpt: "A simple 4 In A Row game to learn the basics of React<br/><img src='../images/4InARow.gif'>
+<img src='../images/4InARow2.gif'>"
 collection: portfolio
 ---
 

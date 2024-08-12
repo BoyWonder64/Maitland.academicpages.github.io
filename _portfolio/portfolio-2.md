@@ -1,6 +1,7 @@
 ---
 title: "Banking Application"
-excerpt: "A Banking Application that also includes proper logic All created inside the MERN Stack<br/><img src='../images/BankingFrontEnd.gif'><img src='../images/BankingFrontEnd2.gif'>""
+excerpt: "A Banking Application that also includes proper logic All created inside the MERN Stack<br/><img src='../images/BankingFrontEnd.gif'>
+<img src='../images/BankingFrontEnd2.gif'>"
 collection: portfolio
 ---
 # Source Code in under: /src/CodeProjects/BankingFrontEnd
