@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Maitlands Portfolio / Site Title"
+title                    : "Maitlands Portfolio / Feel free to look around"
 title_separator          : "-"
 name                     : &name "Maitland"
 description              : &description "This is the description"
@@ -21,7 +21,7 @@ repository               : "https://github.com/BoyWonder64/Maitland.academicpage
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PFP.png"
+  avatar           : ../images/PFP.png"
   name             : "Maitland Andrus"
   pronouns         :  "he/him"  
   bio              : "I just really want to write cool code"
