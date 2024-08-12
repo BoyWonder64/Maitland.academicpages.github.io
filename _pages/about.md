@@ -6,11 +6,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Welcome to my portfolio
-Here is my [Repostitory](https://github.com/BoyWonder64/Maitland.academicpages.github.io)
+# Hello my friend!
+Here this sites [repostitory](https://github.com/BoyWonder64/Maitland.academicpages.github.io)
 
-Hi! My name is Maitland Andrus, I am an aspiring software developoer
+Hi! My name is Maitland Andrus, aspiring software developer, and mountain bike rider.
 
-# A data-driven personal website
-Test
+# Stay a while and listen
+Feel free to look around, if you have any questions or inquries please let me know.
+
+# Side Quests
+- [Java Experience](https://github.com/BoyWonder64/Learning-Java)
+- [Potter Pi](https://github.com/BoyWonder64/Potter-Pi)
+
+
 
