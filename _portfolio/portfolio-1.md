@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Hangman Game"
+excerpt: "This simple game was written inside the MERN stack. This was a team effort that I helped lead. <br/><img src='../images/Hangman.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Hangman Project Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
+
+- Set Up a basic server using Express to handle API requests.
+- Established a basic frontend and backend that communicated to each other.
+- Create a database that contains various references to Marvel, Star Wars, and DBZ
+- The largest challenge I faced was learning how to properly format the frontend page.
+- Most of what was completed was done in react logic.

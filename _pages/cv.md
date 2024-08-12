@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* A.S in Computer Science, SLCC, 2022
+* B.S. in Computer Science, Weber State University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2017: Application Specialist
+  * Spillman Technologies (Now Motorola Solutions)
+  * Duties includes: Updating and Deploying the latest release of their software
+  * Supervisor: Brandt Denkers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2021: QA - Statelink Team
+  * Motorola Solutions
+  * Duties included: Perform testing and lead in testing activities 
+  * Supervisor: Steven Hoggard
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Coding (in order of proficiency)
+  * Java
+  * Java Script
+    * MongoDB
+    * Express
+    * React
+    * Node.js
+  * Python
+  * Perl
+  * Powershell
+  * Bash
+* Attention to detail
+* Red Hat Linux Server
+* Debugging
+* Defect prioritization and tracking 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* LDS Mission for my church
+* Performance Testing leader and representative for team
+* KYN - Participant in the Know Your Neighbor program
+* Coach for local Mountian Biking team. 
