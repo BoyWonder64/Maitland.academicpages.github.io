@@ -48,7 +48,6 @@ Skills
   
 Service and leadership
 ======
-* LDS Mission for my church
 * Performance Testing leader and representative for team
 * KYN - Participant in the Know Your Neighbor program
 * Coach for local Mountian Biking team. 

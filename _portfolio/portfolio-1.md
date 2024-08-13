@@ -5,7 +5,7 @@ excerpt: "This simple game was written inside the MERN stack. This was a team ef
 collection: portfolio
 ---
 
-# Source Code in under: /src/CodeProjects/Hangman
+### Source Code in under: /src/CodeProjects/Hangman
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 
 
@@ -15,7 +15,6 @@ collection: portfolio
 - Create a database that contains various references to Marvel, Star Wars, and DBZ
 - The largest challenge I faced was learning how to properly format the frontend page.
 - Most of what was completed was done in react logic.
-</br>
-<img src='../images/Hangman.png'>
-</br>
-<img src='../images/Hangman2.gif'>
+
+![Image of hangman](/images/Hangman.png)
+![Second Image of hangman](/images/Hangman2.gif)
