@@ -16,5 +16,5 @@ collection: portfolio
 - The largest challenge I faced was learning how to properly format the frontend page.
 - Most of what was completed was done in react logic.
 
-![Image of hangman](/images/Hangman.png)
-![Second Image of hangman](/images/Hangman2.gif)
+![Image of hangman](../images/Hangman.png)
+![Second Image of hangman](../images/Hangman2.gif)
