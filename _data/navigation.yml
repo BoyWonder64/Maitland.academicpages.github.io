@@ -11,8 +11,9 @@ main:
   - title: "Resume"
     url: files/Resume.pdf 
 
+  - title: "Experience"
+    url: /cv/
+
   - title: "About Me"
     url: /about/
 
-  - title: "Experience"
-    url: /cv.
