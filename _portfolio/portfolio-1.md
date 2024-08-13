@@ -12,7 +12,7 @@ collection: portfolio
 - Written using the MERN Stack
 - Set Up a basic server using Express to handle API requests.
 - My contributions
-    - I setup the CSV of library
+    - I setup the CSV library
     - The guessing logic /guess and /hangman routes
     - The setup for sessions that helps select a word from the list
 - Established a basic frontend and backend that communicated to each other.
