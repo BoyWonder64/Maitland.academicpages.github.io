@@ -20,5 +20,7 @@ collection: portfolio
 - The largest challenge I faced was learning how to properly format the frontend page.
 - Most of what was completed was done in react.
 - If I had to complete this project again...
-    - 
+    - I would probably incorperate tailwinds and use more animations.
+    - I've have been meaning to get into animating on my pages to improve the user experience. 
+    - Finally, I would add a fun twist to the game. 
 
