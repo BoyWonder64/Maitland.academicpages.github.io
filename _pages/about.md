@@ -13,7 +13,7 @@ Hi! My name is Maitland Andrus, aspiring software developer, and mountain bike r
 I'm in my final year as an undergraduate student
 
 ## Stay a while and listen
-I am commited to collaborating with others and help build projects that lead to success
+I am commited to collaborating with others and help build projects that lead to success.
 Feel free to look around, if you have any questions or inquries please let me know.
 
 
