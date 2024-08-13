@@ -7,10 +7,13 @@ collection: portfolio
 ### Source Code in under: /src/CodeProjects/4InARow
 [Link to Repo: 4 In A Row](https://github.com/BoyWonder64/4InARow.git)
 - Written using the MERN Stack
-- A polished site that utilizies Tailwinds
-- Using the MERN Stack, Mongo DB was implamented
-- User passwords are stored using SHA-256 hashing
-- Protected roles were implamented to allow Admins, Employees and Customers navigate to their appropiate sites
-- I faced many challengnes when built this game. The largest being figuring how the diagnoals. I resolved this by using a hard coded array then simply checked if each option was in the array
-![Image of 4InARow](../images/4InARow.gif)
-![Second Image of 4InARow2](../images/4InARow2.gif)
+-  My contributions 
+    - I solely completed this project on my own
+- The purpose of this project was to demonstraight my knowledge and abilites to use react. 
+
+- I faced many challengnes when built this game. 
+    - The largest being figuring how the diagnoals. I resolved this by using a hard coded array then simply checked if each option was in the array
+    - An additional challenge I faced was having to learn how to complete this project inside of react. This was the second project I have ever completed inside of it and it was 
+    very demanding of my time and energy. 
+- If I had to complete this project again...
+    - I would probably find a better way to determine if a diagonal has been fulfiled or not. Hard codeing each of the sections worked but takes up a lot of space. Finding a more simple method of completing this would have helped make this project much cleaner

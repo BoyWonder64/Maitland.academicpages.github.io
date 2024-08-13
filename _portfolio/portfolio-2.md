@@ -9,11 +9,15 @@ collection: portfolio
 
 
 - Written using the MERN Stack 
--A polished site that utilizies Tailwinds
+- A polished site that utilizies Tailwinds
 - Using the MERN Stack, Mongo DB was implamented
+- My contributions 
+    - The majority of the backend logic regarding the Admin, Employee, and Customer
+    - The MongoDB setup and intergration
+    - The SHA-256 password encryption
 - User passwords are stored using SHA-256 hashing
 - Protected roles were implamented to allow Admins, Employees and Customers navigate to their appropiate sites
 - The largest challenge I faced with this project was figuring out how to allow one user to transfer money to another user in the backend. I solved this by reworking some previous code I used to allow a single user to perform the transfer
+- If I had to complete this project again...
+    - 
 
-![Image of banking](../images/BankingFrontEnd.gif)
-![Second Image of hangman](../images/BankingFrontEnd2.gif)
