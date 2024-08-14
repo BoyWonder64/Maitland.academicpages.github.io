@@ -7,12 +7,10 @@ collection: portfolio
 
 ### Source Code in under: /src/CodeProjects/Hangman
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
-
-
 - Written using the MERN Stack
 - Set Up a basic server using Express to handle API requests.
 - My contributions
-    - I setup the CSV library
+    - I set up the CSV library
     - The guessing logic /guess and /hangman routes
     - The setup for sessions that helps select a word from the list
 - Established a basic frontend and backend that communicated to each other.
@@ -20,7 +18,6 @@ collection: portfolio
 - The largest challenge I faced was learning how to properly format the frontend page.
 - Most of what was completed was done in react.
 - If I had to complete this project again...
-    - I would probably incorperate tailwinds and use more animations.
-    - I've have been meaning to get into animating on my pages to improve the user experience. 
+    - I would probably incorporate tailwinds and use more animations.
+    - I have been meaning to get into animating on my pages to improve the user experience. 
     - Finally, I would add a fun twist to the game. 
-
