@@ -11,18 +11,6 @@ Using the Academic Pages template, I added and built a portfolio that displays m
 Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder64/Maitland.academicpages.github.io)
 
 
-# Stay and while and listen!
-
-👨🏻‍💻  About Me
-💡  I’m a Computer Science Student and have lots of work experience in Software Engineering.
-🌱  I enjoy creative problem-solving, and yes I do enjoy debugging.
-🚵  In my free time, I listen to mountain bike, read books, and 3D Print.
-
-
-Feel free to check out my portfolio and contact me if you have any questions or inquiries.
-Using the Academic Pages template, I added and built a portfolio that displays my work. 
-Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder64/Maitland.academicpages.github.io)
-
  # Hangman Game # 
 ![Hangman2](https://github.com/user-attachments/assets/e2e28111-8d10-450e-a028-5e18d6ad40c5)
 ![Hangman](https://github.com/user-attachments/assets/352b25d1-2c39-4065-8406-7f69777baf36)
