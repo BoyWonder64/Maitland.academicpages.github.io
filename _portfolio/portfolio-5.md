@@ -1,7 +1,7 @@
 ---
 title: "My first API"
-excerpt: "My First API ever!<br/><img src='../images/RestER.png'>
-<img src='../images/RestER2.png'>"
+excerpt: "My First API ever!<br/><img src='../images/RestER.PNG'>
+<img src='../images/RestER2.PNG'>"
 collection: portfolio
 ---
 ### Source Code in under: /src/CodeProjects/4FileWrite
