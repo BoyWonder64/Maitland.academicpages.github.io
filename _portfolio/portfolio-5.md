@@ -1,10 +1,10 @@
 ---
-title: "My first API"
-excerpt: "My First API ever!<br/><img src='../images/RestER.PNG'>
+title: "My first API - Food finder"
+excerpt: "My First API ever! - Food Finder<br/><img src='../images/RestER.PNG'>
 <img src='../images/RestER2.PNG'>"
 collection: portfolio
 ---
-### Source Code in under: /src/CodeProjects/4FileWrite
+### Source Code in under: /src/CodeProjects/FoodFinder
 - Written using the MERN Stack
 -  My contributions 
     - I solely completed this project on my own
