@@ -4,7 +4,7 @@ excerpt: "A Banking Application that also includes proper logic All created insi
 <img src='../images/BankingFrontEnd2.gif'>"
 collection: portfolio
 ---
-### Source Code in under: /src/CodeProjects/BankingFrontEnd
+### Source Code in under: /src/BankingFrontEnd
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 
 

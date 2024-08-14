@@ -4,7 +4,7 @@ excerpt: "My First API ever! - Food Finder<br/><img src='../images/RestER.PNG'>
 <img src='../images/RestER2.PNG'>"
 collection: portfolio
 ---
-### Source Code in under: /src/CodeProjects/FoodFinder
+### Source Code in under: /src/FoodFinder
 - Written using the MERN Stack
 -  My contributions 
     - I solely completed this project on my own
