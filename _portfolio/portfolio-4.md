@@ -1,18 +1,16 @@
 ---
 title: "File Write"
-excerpt: "A simple 4 In A Row game to learn the basics of React<br/><img src='../images/FileWrite'>
-<img src='../images/FileWrite2.gif'>"
+excerpt: "A program that writes and and reads a textfile React<br/><img src='../images/FileWrite.gif'>
+<img src='../images/FileWrite2.png'>"
 collection: portfolio
 ---
 ### Source Code in under: /src/CodeProjects/4FileWrite
-[Link to Repo: 4 In A Row](https://github.com/BoyWonder64/4InARow.git)
-- Written using the MERN Stack
+- Written using the MERN Stack (Mostly just React and Express)
 -  My contributions 
     - I solely completed this project on my own
 - The purpose of this project was to demonstraight my knowledge and abilites to use react. 
 
-- I faced many challengnes when built this game. 
-    - The largest being figuring how the diagnoals. I resolved this by using a hard coded array then simply checked if each option was in the array.
-    - An additional challenge I faced was having to learn how to complete this project inside of react. This was the second project I have ever completed inside of it and it was very demanding of my time and energy. 
+- The only major challenge I faced with completing this assignment was my lack of understanding of how to use the async tools. This in turn made things not work for a hot minute. After consulting with another classmate they mentioned that I should try using async and I never turned back. 
 - If I had to complete this project again...
-    - I would probably find a better way to determine if a diagonal has been fulfiled or not. Hard codeing each of the sections worked but takes up a lot of space. Finding a more simple method of completing this would have helped make this project much cleaner.
+    - I would have added a nice frontend. At the time of completion for this assignment I hadnt completed anything in the front end yet and solely relied on a little html to help me in get through this. Having my understanding now will make things a lot easier.
+
