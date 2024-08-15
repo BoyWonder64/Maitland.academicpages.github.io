@@ -4,7 +4,7 @@ excerpt: "A simple 4 In A Row game to learn the basics of React<br/><img src='..
 <img src='../images/4InARow2.gif'>"
 collection: portfolio
 ---
-### Source Code in under: /src/4InARow
+### Source Code in under: /4InARow
 [Link to Repo: 4 In A Row](https://github.com/BoyWonder64/4InARow.git)
 - Written using the MERN Stack
 -  My contributions 

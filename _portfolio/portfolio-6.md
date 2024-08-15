@@ -4,7 +4,7 @@ excerpt: "This assignment, I demonstraighted my ability to use sessions<br/><img
 <img src='../images/sessions2.gif'>"
 collection: portfolio
 ---
-### Source Code in under: /src/Session
+### Source Code in under: /Session
 - Written using the MERN Stack
 -  My contributions 
     - I solely completed this project on my own

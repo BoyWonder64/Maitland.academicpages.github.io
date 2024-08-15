@@ -15,7 +15,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![Hangman2](https://github.com/user-attachments/assets/e2e28111-8d10-450e-a028-5e18d6ad40c5)
 ![Hangman](https://github.com/user-attachments/assets/352b25d1-2c39-4065-8406-7f69777baf36)
 
-### Source Code in under: /src/CodeProjects/Hangman
+### Source Code in under: /Hangman
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 - Written using the MERN Stack
 - Set Up a basic server using Express to handle API requests.
@@ -39,7 +39,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![BankingFrontEnd2](https://github.com/user-attachments/assets/fb7de110-66a2-4e47-b18b-189181627d02)
 ![BankingFrontEnd](https://github.com/user-attachments/assets/10d99f27-b1ae-4887-9c24-edfd0df9d98c)
 
-### Source Code in under: /src/CodeProjects/BankingFrontEnd
+### Source Code in under: /BankingFrontEnd
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 - Written using the MERN Stack 
 - A polished site that utilizes Tailwinds
@@ -61,7 +61,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![4InARow2](https://github.com/user-attachments/assets/4acaeb11-ba40-4f70-b8ec-71b7aad59e40)
 ![4InARow](https://github.com/user-attachments/assets/7ba5fa78-60fc-4bc6-9ff3-9c58b47098d7)
 
-### Source Code in under: /src/CodeProjects/4InARow
+### Source Code in under: /4InARow
 [Link to Repo: 4 In A Row](https://github.com/BoyWonder64/4InARow.git)
 - Written using the MERN Stack
 -  My contributions 
@@ -78,7 +78,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![FileWrite2](https://github.com/user-attachments/assets/1d2e2289-11cc-4826-95d5-891c1d8e3176)
 ![FileWrite](https://github.com/user-attachments/assets/8b290a1d-4845-45c1-873d-1362db341b70)
 
-### Source Code in under: /src/CodeProjects/4FileWrite
+### Source Code in under: /src/FileWrite
 - Written using the MERN Stack (Mostly just React and Express)
 -  My contributions 
     - I solely completed this project on my own
@@ -92,7 +92,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![RestER2](https://github.com/user-attachments/assets/a84e16d0-5da6-4bea-a179-4c31a937b30e)
 ![RestER](https://github.com/user-attachments/assets/904b51d1-56c2-4b63-ba7e-ccecf41f1476)
 
-### Source Code in under: /src/CodeProjects/FoodFinder
+### Source Code in under: /FoodFinder
 - Written using the MERN Stack
 -  My contributions 
     - I solely completed this project on my own
@@ -108,7 +108,7 @@ Here is a link to this repo: [Maitlands Portfolio](https://github.com/BoyWonder6
 ![sessions2](https://github.com/user-attachments/assets/17acda18-f407-460c-8022-daa39ba9d44f)
 ![sessions](https://github.com/user-attachments/assets/5d7d27ed-e199-46bb-99b4-394c1c1ddc2e)
 
-### Source Code in under: /src/CodeProjects/Session
+### Source Code in under: /Session
 - Written using the MERN Stack
 -  My contributions 
     - I solely completed this project on my own

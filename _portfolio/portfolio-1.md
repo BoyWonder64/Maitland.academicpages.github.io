@@ -5,7 +5,7 @@ excerpt: "This simple game was written inside the MERN stack. This was a team ef
 collection: portfolio
 ---
 
-### Source Code in under: /src/Hangman
+### Source Code in under: /Hangman
 [Link to Repo: Banking Repository](https://github.com/BoyWonder64/GroupProject3750-Hangman)
 - Written using the MERN Stack
 - Set Up a basic server using Express to handle API requests.

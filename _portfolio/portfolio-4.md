@@ -4,7 +4,7 @@ excerpt: "A program that writes and and reads a textfile React<br/><img src='../
 <img src='../images/FileWrite2.png'>"
 collection: portfolio
 ---
-### Source Code in under: /src/4FileWrite
+### Source Code in under: /FileWrite
 - Written using the MERN Stack (Mostly just React and Express)
 -  My contributions 
     - I solely completed this project on my own
